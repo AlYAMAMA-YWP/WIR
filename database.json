@@ -15,12 +15,30 @@
       "role": "Site Engineer"
     },
     {
-      "id": 3,
+      "id": 1779614473691,
       "username": "ahmed_gis",
-      "password": "password123",
-      "name": "أحمد رمضان",
+      "password": "ahmed123",
+      "name": "احمد رمضان ",
       "role": "Admin"
     }
   ],
-  "wirs": []
+  "wirs": [
+    {
+      "id": "wir_1779625478798_qnz7t",
+      "created_at": "2026-05-24T12:24:38.798Z",
+      "updated_at": "2026-05-24T12:24:38.798Z",
+      "wir_number": "WIR-001",
+      "submission_date": "2026-05-24",
+      "ref_number": "cv01",
+      "target": "2026-05-07",
+      "type": "Material",
+      "discipline": "Civil",
+      "location": "jeddah",
+      "drawing_ref": "",
+      "status": "Waiting Review",
+      "consultant": "Pending",
+      "review_date": "2026-05-30",
+      "approval_code": "A"
+    }
+  ]
 }
