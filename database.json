@@ -6,6 +6,20 @@
       "password": "admin123",
       "name": "مدير النظام",
       "role": "Admin"
+    },
+    {
+      "id": 2,
+      "username": "ahmed_eng",
+      "password": "password123",
+      "name": "أحمد (مهندس)",
+      "role": "Site Engineer"
+    },
+    {
+      "id": 3,
+      "username": "ahmed_gis",
+      "password": "password123",
+      "name": "أحمد رمضان",
+      "role": "Admin"
     }
   ],
   "wirs": []
