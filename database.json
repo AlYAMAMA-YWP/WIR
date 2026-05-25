@@ -39,6 +39,31 @@
       "consultant": "Approved",
       "review_date": "2026-05-30",
       "approval_code": "A"
+    },
+    {
+      "id": "wir_1779691018746_sj0z0",
+      "created_at": "2026-05-25T06:36:58.746Z",
+      "updated_at": "2026-05-25T06:36:58.746Z",
+      "wir_number": "JSW-YC-SWRI",
+      "submission_date": "2025-04-17",
+      "ref_number": "WRI-SU-0583",
+      "target": "2025-04-08",
+      "type": "Execution / Inspection",
+      "discipline": "Survey",
+      "location": "Installation for Pipeline from Manhole (MH19- MH20), Line (LA01-4-2), Dia - 400mm, UPVC Pipe From Station (0 TO 97.81)",
+      "drawing_ref": "JSW-YC-SWRI-WIR-SU-0583",
+      "status": "Approved",
+      "consultant": "Reviewed",
+      "review_date": "2025-04-14",
+      "approval_code": "A",
+      "history": [
+        {
+          "date": "2026-05-25T06:36:58.746Z",
+          "action": "تم تقديم الطلب",
+          "by": "مدير النظام",
+          "comments": ""
+        }
+      ]
     }
   ]
 }
