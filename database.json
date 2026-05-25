@@ -24,50 +24,6 @@
   ],
   "wirs": [
     {
-      "id": "wir_1779625478798_qnz7t",
-      "created_at": "2026-05-24T12:24:38.798Z",
-      "updated_at": "2026-05-25T12:23:00.757Z",
-      "wir_number": "WIR-001",
-      "submission_date": "2026-05-24",
-      "ref_number": "cv01",
-      "target": "2026-05-07",
-      "type": "Material",
-      "discipline": "Civil",
-      "location": "jeddah",
-      "drawing_ref": "",
-      "status": "Under Review",
-      "consultant": "Approved with Comments",
-      "review_date": "2026-05-30",
-      "approval_code": "B",
-      "attachments": [
-        {
-          "name": "JSW-YC-SWRI-WIR-SU-0752.pdf",
-          "path": "docs/attachments/wir_1779625478798_qnz7t/1779691479187_JSW-YC-SWRI-WIR-SU-0752.pdf",
-          "url": "https://raw.githubusercontent.com/AlYAMAMA-YWP/WIR/main/docs/attachments/wir_1779625478798_qnz7t/1779691479187_JSW-YC-SWRI-WIR-SU-0752.pdf",
-          "size": 722529,
-          "type": "application/pdf",
-          "uploaded_at": "2026-05-25T06:44:41.760Z"
-        },
-        {
-          "name": "JSW-YC-SWRI-WIR-CI-2487.pdf",
-          "path": "docs/attachments/wir_1779625478798_qnz7t/1779692730809_JSW-YC-SWRI-WIR-CI-2487.pdf",
-          "url": "https://raw.githubusercontent.com/AlYAMAMA-YWP/WIR/main/docs/attachments/wir_1779625478798_qnz7t/1779692730809_JSW-YC-SWRI-WIR-CI-2487.pdf",
-          "size": 749941,
-          "type": "application/pdf",
-          "uploaded_at": "2026-05-25T07:05:33.359Z"
-        }
-      ],
-      "history": [
-        {
-          "date": "2026-05-25T06:50:15.903Z",
-          "action": "تغيير الحالة إلى: Under Review",
-          "by": "مدير النظام",
-          "comments": ""
-        }
-      ],
-      "is_deleted": true
-    },
-    {
       "id": "wir_1779691018746_sj0z0",
       "created_at": "2026-05-25T06:36:58.746Z",
       "updated_at": "2026-05-25T07:03:43.868Z",
