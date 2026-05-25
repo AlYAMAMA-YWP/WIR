@@ -24,6 +24,33 @@
   ],
   "wirs": [
     {
+      "id": "wir_1779708690982_nzd83",
+      "created_at": "2026-05-25T11:31:30.982Z",
+      "updated_at": "2026-05-25T11:48:50.750Z",
+      "wir_number": "WIR-002",
+      "submission_date": "2026-05-25",
+      "ref_number": "FHFHF",
+      "target": "2026-05-20",
+      "type": "Material",
+      "discipline": "Civil",
+      "location": "HYHFGHFGFGGH",
+      "drawing_ref": "HFGHFGHFGH",
+      "status": "Waiting Review",
+      "consultant": "Approved",
+      "review_date": "2026-01-30",
+      "approval_code": "A",
+      "rev": "1",
+      "history": [
+        {
+          "date": "2026-05-25T11:31:30.982Z",
+          "action": "تم تقديم الطلب",
+          "by": "مدير النظام",
+          "comments": ""
+        }
+      ],
+      "is_deleted": true
+    },
+    {
       "id": "wir_1779625478798_qnz7t",
       "created_at": "2026-05-24T12:24:38.798Z",
       "updated_at": "2026-05-25T07:05:33.359Z",
