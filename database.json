@@ -61,7 +61,7 @@
     {
       "id": "wir_1779691018746_sj0z0",
       "created_at": "2026-05-25T06:36:58.746Z",
-      "updated_at": "2026-05-25T06:47:38.080Z",
+      "updated_at": "2026-05-25T07:03:43.868Z",
       "wir_number": "JSW-YC-SWRI",
       "submission_date": "2025-04-17",
       "ref_number": "WRI-SU-0583",
@@ -86,6 +86,16 @@
           "action": "تغيير الحالة إلى: Reviewed",
           "by": "مدير النظام",
           "comments": ""
+        }
+      ],
+      "attachments": [
+        {
+          "name": "JSW-YC-SWRI-WIR-SU-0748.pdf",
+          "path": "docs/attachments/wir_1779691018746_sj0z0/1779692617526_JSW-YC-SWRI-WIR-SU-0748.pdf",
+          "url": "https://raw.githubusercontent.com/AlYAMAMA-YWP/WIR/main/docs/attachments/wir_1779691018746_sj0z0/1779692617526_JSW-YC-SWRI-WIR-SU-0748.pdf",
+          "size": 716826,
+          "type": "application/pdf",
+          "uploaded_at": "2026-05-25T07:03:43.868Z"
         }
       ]
     }
