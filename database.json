@@ -26,7 +26,7 @@
     {
       "id": "wir_1779625478798_qnz7t",
       "created_at": "2026-05-24T12:24:38.798Z",
-      "updated_at": "2026-05-24T12:30:25.567Z",
+      "updated_at": "2026-05-25T06:44:41.760Z",
       "wir_number": "WIR-001",
       "submission_date": "2026-05-24",
       "ref_number": "cv01",
@@ -38,7 +38,17 @@
       "status": "Rejected",
       "consultant": "Approved",
       "review_date": "2026-05-30",
-      "approval_code": "A"
+      "approval_code": "A",
+      "attachments": [
+        {
+          "name": "JSW-YC-SWRI-WIR-SU-0752.pdf",
+          "path": "docs/attachments/wir_1779625478798_qnz7t/1779691479187_JSW-YC-SWRI-WIR-SU-0752.pdf",
+          "url": "https://raw.githubusercontent.com/AlYAMAMA-YWP/WIR/main/docs/attachments/wir_1779625478798_qnz7t/1779691479187_JSW-YC-SWRI-WIR-SU-0752.pdf",
+          "size": 722529,
+          "type": "application/pdf",
+          "uploaded_at": "2026-05-25T06:44:41.760Z"
+        }
+      ]
     },
     {
       "id": "wir_1779691018746_sj0z0",
