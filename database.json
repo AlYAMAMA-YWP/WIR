@@ -6,6 +6,13 @@
       "password": "admin123",
       "name": "مدير النظام",
       "role": "Admin"
+    },
+    {
+      "id": 1782304596765,
+      "username": "eng_Glenn",
+      "name": "Glenn Arcilles",
+      "password": "eng1234",
+      "role": "QA/QC Engineer"
     }
   ],
   "wirs": [
