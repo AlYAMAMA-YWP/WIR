@@ -13,6 +13,13 @@
       "name": "Glenn Arcilles",
       "password": "eng1234",
       "role": "QA/QC Engineer"
+    },
+    {
+      "id": 1782304635909,
+      "username": "ENG /SHADY",
+      "name": "ENG /SHADY",
+      "password": "eng123",
+      "role": "Admin"
     }
   ],
   "wirs": [
