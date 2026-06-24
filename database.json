@@ -6,13 +6,6 @@
       "password": "admin123",
       "name": "مدير النظام",
       "role": "Admin"
-    },
-    {
-      "id": 1779614473691,
-      "username": "ahmed_gis",
-      "password": "ahmed123",
-      "name": "احمد رمضان ",
-      "role": "Admin"
     }
   ],
   "wirs": [
