@@ -19,7 +19,7 @@
     {
       "id": "wir_1779691018746_sj0z0",
       "created_at": "2026-05-25T06:36:58.746Z",
-      "updated_at": "2026-05-25T07:03:43.868Z",
+      "updated_at": "2026-06-24T09:33:37.647Z",
       "wir_number": "JSW-YC-SWRI",
       "submission_date": "2025-04-17",
       "ref_number": "WRI-SU-0583",
@@ -55,7 +55,8 @@
           "type": "application/pdf",
           "uploaded_at": "2026-05-25T07:03:43.868Z"
         }
-      ]
+      ],
+      "is_deleted": true
     }
   ]
 }
