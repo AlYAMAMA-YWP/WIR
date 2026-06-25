@@ -29,5 +29,32 @@
       "role": "QA/QC Engineer"
     }
   ],
-  "wirs": []
+  "wirs": [
+    {
+      "id": "wir_1782394777287_37536",
+      "created_at": "2026-06-25T13:39:37.287Z",
+      "updated_at": "2026-06-25T13:39:37.287Z",
+      "wir_number": "SU-3836",
+      "submission_date": "2026-06-02",
+      "ref_number": "JSW-YC-SWRI-WIR-SU-3836",
+      "target": "2026-06-02",
+      "type": "Inspection",
+      "discipline": "Survey",
+      "location": "Installation of Pipeline from Manhole (MH14 to MH15) Line LA01, Dia - 1600mm, RC Pipe, Net Length-96.66m",
+      "drawing_ref": "JSWM-ACM-AXXX-SW-DR-CE-01204",
+      "status": "Rejected",
+      "consultant": "Rejected",
+      "review_date": "20226-04-30",
+      "approval_code": "C",
+      "rev": 0,
+      "history": [
+        {
+          "date": "2026-06-25T13:39:37.287Z",
+          "action": "Request submitted",
+          "by": "مدير النظام",
+          "comments": ""
+        }
+      ]
+    }
+  ]
 }
