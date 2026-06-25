@@ -59,7 +59,7 @@
     {
       "id": "wir_1782394968936_wsyy1",
       "created_at": "2026-06-25T13:42:48.936Z",
-      "updated_at": "2026-06-25T13:42:48.936Z",
+      "updated_at": "2026-06-25T13:43:10.870Z",
       "wir_number": "WIR-01",
       "submission_date": "2026-06-02",
       "ref_number": "JSW-YC-SWRI-WIR-SU-3836",
@@ -80,7 +80,8 @@
           "by": "مدير النظام",
           "comments": ""
         }
-      ]
+      ],
+      "is_deleted": true
     }
   ]
 }
