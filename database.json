@@ -20,6 +20,13 @@
       "name": "ENG /SHADY",
       "password": "eng123",
       "role": "Admin"
+    },
+    {
+      "id": 1782369503736,
+      "username": "Abo Hammam",
+      "name": "Abo Hammam",
+      "password": "ENG12345",
+      "role": "QA/QC Engineer"
     }
   ],
   "wirs": []
