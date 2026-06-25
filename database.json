@@ -20,13 +20,6 @@
       "name": "ENG /SHADY",
       "password": "eng123",
       "role": "Admin"
-    },
-    {
-      "id": 1782369450663,
-      "username": "Abo Hammam",
-      "name": "Abo Hammam",
-      "password": "ENG12345",
-      "role": "Site Engineer"
     }
   ],
   "wirs": []
