@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 220" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="sideSky" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0B2545"/>
+      <stop offset="35%" stop-color="#1E4B85"/>
+      <stop offset="68%" stop-color="#6A7EA2"/>
+      <stop offset="88%" stop-color="#3B4258"/>
+      <stop offset="100%" stop-color="#0B2545"/>
+    </linearGradient>
+    <radialGradient id="sunWarm" cx="65%" cy="48%" r="48%">
+      <stop offset="0%" stop-color="#F59E0B" stop-opacity="0.45"/>
+      <stop offset="60%" stop-color="#F59E0B" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#0B2545" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="topFade" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0B2545" stop-opacity="1"/>
+      <stop offset="24%" stop-color="#0B2545" stop-opacity="0"/>
+      <stop offset="76%" stop-color="#0B2545" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#0B2545" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="260" height="220" fill="url(#sideSky)"/>
+  <rect width="260" height="220" fill="url(#sunWarm)"/>
+
+  <!-- Distant site horizon & buildings -->
+  <g fill="#16345C" opacity="0.55">
+    <rect x="165" y="88" width="22" height="44"/>
+    <rect x="192" y="76" width="28" height="56"/>
+    <rect x="224" y="92" width="24" height="40"/>
+  </g>
+
+  <!-- Ground & stormwater trench embankment -->
+  <path d="M0 132 L125 128 L260 136 L260 220 L0 220 Z" fill="#1C293B"/>
+  <path d="M0 144 L95 140 L180 156 L260 152 L260 220 L0 220 Z" fill="#131E2E"/>
+
+  <!-- Precast drainage pipe on site -->
+  <ellipse cx="212" cy="148" rx="18" ry="12" fill="#64748B"/>
+  <ellipse cx="212" cy="148" rx="11" ry="7" fill="#1E293B"/>
+  <rect x="212" y="136" width="44" height="24" fill="#475569"/>
+
+  <!-- Yellow Excavator -->
+  <g transform="translate(18, 46)">
+    <!-- Boom & Stick -->
+    <polygon points="58,52 94,16 105,22 68,62" fill="#F59E0B"/>
+    <polygon points="96,18 118,52 109,57 90,26" fill="#D97706"/>
+    <!-- Bucket -->
+    <path d="M110 53 L126 57 L120 71 L104 64 Z" fill="#334155"/>
+    <!-- Tracks -->
+    <rect x="8" y="82" width="66" height="16" rx="8" fill="#1E293B" stroke="#475569" stroke-width="1.5"/>
+    <circle cx="18" cy="90" r="4" fill="#64748B"/>
+    <circle cx="41" cy="90" r="4" fill="#64748B"/>
+    <circle cx="64" cy="90" r="4" fill="#64748B"/>
+    <!-- Cab & Body -->
+    <rect x="14" y="54" width="54" height="28" rx="4" fill="#F59E0B"/>
+    <rect x="10" y="64" width="22" height="18" rx="3" fill="#D97706"/>
+    <rect x="34" y="42" width="28" height="26" rx="3" fill="#FBBF24"/>
+    <rect x="38" y="46" width="20" height="14" rx="2" fill="#1E3A5F"/>
+  </g>
+
+  <!-- Engineer 1 (Left, White Hard Hat & Lime Vest) -->
+  <g transform="translate(88, 114)">
+    <rect x="6" y="34" width="7" height="26" rx="2" fill="#1E293B"/>
+    <rect x="15" y="34" width="7" height="26" rx="2" fill="#1E293B"/>
+    <path d="M3 16 Q14 13 25 16 L27 36 L1 36 Z" fill="#84CC16"/>
+    <rect x="3" y="25" width="22" height="3" fill="#E2E8F0"/>
+    <circle cx="14" cy="8" r="6" fill="#D4A373"/>
+    <path d="M6 7 Q14 -2 22 7 Z" fill="#F8FAFC"/>
+    <rect x="5" y="6" width="18" height="2" rx="1" fill="#E2E8F0"/>
+  </g>
+
+  <!-- Engineer 2 (Center, Yellow Hard Hat & Orange Vest holding tablet/plans) -->
+  <g transform="translate(132, 110)">
+    <rect x="7" y="36" width="8" height="28" rx="2" fill="#0F172A"/>
+    <rect x="17" y="36" width="8" height="28" rx="2" fill="#0F172A"/>
+    <path d="M3 17 Q16 14 29 17 L30 38 L2 38 Z" fill="#F97316"/>
+    <rect x="3" y="26" width="26" height="3" fill="#FDE047"/>
+    <circle cx="16" cy="9" r="6.5" fill="#C68B59"/>
+    <path d="M7 8 Q16 -2 25 8 Z" fill="#FACC15"/>
+    <rect x="6" y="7" width="20" height="2.2" rx="1" fill="#EAB308"/>
+    <!-- Rolled drawing / tablet -->
+    <rect x="20" y="24" width="14" height="9" rx="1" fill="#F8FAFC" transform="rotate(-12 20 24)"/>
+  </g>
+
+  <!-- Engineer 3 (Right, White Hard Hat & Lime Vest) -->
+  <g transform="translate(178, 118)">
+    <rect x="6" y="32" width="7" height="24" rx="2" fill="#1E293B"/>
+    <rect x="15" y="32" width="7" height="24" rx="2" fill="#1E293B"/>
+    <path d="M3 15 Q14 12 25 15 L26 34 L2 34 Z" fill="#A3E635"/>
+    <rect x="3" y="23" width="22" height="2.8" fill="#F1F5F9"/>
+    <circle cx="14" cy="7.5" r="5.5" fill="#D4A373"/>
+    <path d="M7 7 Q14 -1 21 7 Z" fill="#FFFFFF"/>
+  </g>
+
+  <!-- Smooth top & bottom navy vignette blending into sidebar -->
+  <rect width="260" height="220" fill="url(#topFade)"/>
+</svg>
